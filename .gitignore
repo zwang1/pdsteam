@@ -1,4 +1,5 @@
 yelp_auth.py
 yelp_auth.pyc
 .*
-scraper.ipynb
+*.data
+*.pem
